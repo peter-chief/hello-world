@@ -1,5 +1,5 @@
 # hello-world
-just a test
+just a practice session.
 
 Will edit this file, to have a change for this branch. 
 
